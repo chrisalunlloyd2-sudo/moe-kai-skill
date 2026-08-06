@@ -3,8 +3,8 @@
 All notable changes to this project.
 
 ## 2026-08
-- **[Changed]** Update Moe skill 2026-08-05 19:20 ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
+- **[Changed]** Update Moe skill 2026-08-05 19:20 ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
