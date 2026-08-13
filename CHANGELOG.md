@@ -3,6 +3,7 @@
 All notable changes to this project.
 
 ## 2026-08
+- **[Changed]** [Moe autonomous] moe-kai-skill 2026-08-12 21:18 ($hash)
 - **[Changed]** [Moe autonomous] moe-kai-skill 2026-08-12 20:49 ($hash)
 - **[Changed]** [Moe autonomous] moe-kai-skill 2026-08-12 20:08 ($hash)
 - **[Changed]** [Moe autonomous] moe-kai-skill 2026-08-12 19:36 ($hash)
@@ -17,7 +18,6 @@ All notable changes to this project.
 - **[Changed]** [Moe autonomous] moe-kai-skill 2026-08-12 10:01 ($hash)
 - **[Changed]** [Moe autonomous] moe-kai-skill 2026-08-12 06:41 ($hash)
 - **[Changed]** [Moe autonomous] moe-kai-skill 2026-08-12 04:24 ($hash)
-- **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
 - **[Docs]** docs: auto-update [skip-docs] ($hash)
