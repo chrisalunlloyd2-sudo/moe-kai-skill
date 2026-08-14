@@ -2,7 +2,7 @@
 
 > moe-kai-skill — part of the Viper RAID-0 workstation system.
 
-*Auto-generated 2026-08-13 07:39 from source — branch `main`, 0 Python modules, 5 other files.*
+*Auto-generated 2026-08-13 18:10 from source — branch `main`, 0 Python modules, 5 other files.*
 
 ## Architecture
 
@@ -23,19 +23,19 @@ This project exposes modules for import; no standalone entry points detected.
 ## Status
 
 - Branch: `main`
-- Last commit: 2026-08-13 07:23:43 -0600
+- Last commit: 2026-08-13 17:28:31 -0600
 - File types: .md ×5
 
 ### Recent commits
 ```
-3f241ef [Moe autonomous] moe-kai-skill 2026-08-13 07:23
-f9d9129 [Moe autonomous] moe-kai-skill 2026-08-13 06:25
-97d4ec6 [Moe autonomous] moe-kai-skill 2026-08-13 05:43
-11e9a0a [Moe autonomous] moe-kai-skill 2026-08-13 04:00
-92212f0 [Moe autonomous] moe-kai-skill 2026-08-13 03:26
-d6a1336 [Moe autonomous] moe-kai-skill 2026-08-13 02:33
-5bccb23 [Moe autonomous] moe-kai-skill 2026-08-13 01:43
-d780ca6 [Moe autonomous] moe-kai-skill 2026-08-13 00:57
+954df05 [Moe autonomous] moe-kai-skill 2026-08-13 17:28
+432f660 [Moe autonomous] moe-kai-skill 2026-08-13 16:47
+cf0b471 [Moe autonomous] moe-kai-skill 2026-08-13 16:12
+448943f [Moe autonomous] moe-kai-skill 2026-08-13 15:37
+22250e6 [Moe autonomous] moe-kai-skill 2026-08-13 15:04
+41d7b58 [Moe autonomous] moe-kai-skill 2026-08-13 14:30
+c8265f3 [Moe autonomous] moe-kai-skill 2026-08-13 13:50
+d9a799a [Moe autonomous] moe-kai-skill 2026-08-13 12:59
 ```
 
 ---
